@@ -13,6 +13,11 @@ We start with using the [TextBlob](https://textblob.readthedocs.io/en/dev/) mode
 4. Run the tests. `pytest -sv`
 5. Hack on `app/model.py`
 
+## Next steps
+1. Explore more models
+1. Implement a FastAPI endpoint server
+1. Write a simple front-end using React
+1. Dockerize the app for easy deployment
 
 
 
